@@ -7,11 +7,16 @@ The purpose of this analysis is to examine the "silver tsunami" at Pewlett-Hacka
 ## Results
 
 ![The retirement_titles table](/Resources/retirement_titles.png)
+
 * The retirement_titles table shows that most employees have been promoted at least once during their time at Pewlett-Hackard, with many employees appearing as duplicates after being promoted to a senior position.
+
 ![The retiring_titles table](/Resources/retiring_titles.png)
+
 * According to the retiring_titles table, the two roles with the most retiring employees are Senior Engineer and Senior Staff. This aligns with the previous result and indicates that most retiring employees have been promoted several times.
 * There are 50,842 total retiring Senior Engineers and Staff and 21,616 retiring employees holding other titles.
+
 ![The bottom rows of the mentorship_eligibility table](/Resources/mentorship_eligibility.png)
+
 * The mentorship_eligibility table has 1549 rows, showing that 1,549 employees are eligible for the mentorship program.
 
 ## Summary

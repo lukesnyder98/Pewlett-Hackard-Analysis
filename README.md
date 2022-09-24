@@ -1,8 +1,8 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis Using PostgreSQL
 
 ## Overview
 
-The purpose of this analysis is to examine the "silver tsunami" at Pewlett-Hackard and gather data that would inform a mentorship program. We find the number of retiring employees per title and the number of employees who would be able to mentor the next generation.
+The purpose of this analysis is to examine the "silver tsunami" at fictional company Pewlett-Hackard and gather data that would inform a mentorship program. We find the number of retiring employees per title and the number of employees who would be able to mentor the next generation.
 
 ## Results
 
